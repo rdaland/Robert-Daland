@@ -1,6 +1,6 @@
 # Robert Daland
 
-email: [](r.daland@gmail.com)
+email: [r.daland@gmail.com](r.daland@gmail.com)
 
 text: +1 310-402-1176
 
@@ -16,12 +16,14 @@ Since 12/2017: Quality Engineer, Siri Natural Language Understanding (Apple)
 
 6/2001 -- 8/2001: Firmware Engineer (Contractor, Powerware/Invensys)
 
-# Skills (1=Foundational Knowledge; 6=Mastery)
-* Computer Languages: Python (5), R (3), sh (2), C/C++ (1)
-* Natural Languages: English (6), French (1), Russian (1), Korean (1)
-* Data Science: Parametric statistics (3), Non-parametric statistics (3), Data Visualization (5), Machine Learning (2), Human Subjects Research (3), Research Design and Methodology (5), Graph Theory (3), Numpy/Pandas/Scipy/Jupyter (3)
-* Natural Language Processing: Corpus Linguistics (5), Linguistic Theory (6), Language Modeling (4)
-* Soft Skills: Technical/Written Communication (5), Project Management (4), Public Speaking and Presenting (5)
+# Skills 
+(Skill range: 1=Foundational Knowledge; 6=Mastery)
+* _Computer Languages_: Python (5), R (3), sh (2), C/C++ (1)
+* _Natural Languages_: English (6), French (1), Russian (1), Korean (1)
+* _Data Science_: Parametric statistics (3), Non-parametric statistics (3), Data Visualization (5), Machine Learning (2), Human Subjects Research (3), Research Design and Methodology (5), Graph Theory (3), Numpy/Pandas/Scipy/Jupyter (3)
+* _Natural Language Processing_: Corpus Linguistics (5), Linguistic Theory (6), Language Modeling (4)
+* _Software Enginnering_: CI/CD (3), SDET (2), Testing at scale (2)
+* _Soft Skills_: Technical/Written Communication (5), Project Management (4), Public Speaking and Presenting (5)
 
 # Selected Publications
 * Mayer, C. & Daland, R. (accepted). A method for projecting features from observed phonological classes. Linguistic Inquiry.
@@ -40,13 +42,11 @@ Since 12/2017: Quality Engineer, Siri Natural Language Understanding (Apple)
 
 
 # Education
-* PhD, Linguistics. Northwestern University, 2009.  
-  Areas of focus: speech perception, phonotactics, first languge acquisition  
-  Specialization in Cognitive Science.  
+* PhD, **Linguistics**. Northwestern University, 2009.  
+  Areas of focus: speech perception, phonotactics, first languge acquisition. Minor in *Cognitive Science*.  
   Dissertation: "Word segmentation, word recognition, and word learning: a computational model of first language acquisition."  
-* MS, Mathematics. North Carolina State University (NCSU), 2001.  
+* MS, **Mathematics**. North Carolina State University (NCSU), 2001.  
   Areas of focus: topology, iterated function systems (chaos theory)  
-* BA, English. NCSU, 2001.  
-  Areas of focus: Modernist and post-modernist literature  
-  Minor: Religious studies  
-* BS, Mathetmatics, NCSU, 2000. 
+* BA, **English**. NCSU, 2001.  
+  Areas of focus: Modernist and post-modernist literature. Minor in *Religious Studies*.  
+* BS, **Mathematics**, NCSU, 2000. 
