@@ -1,8 +1,9 @@
 # Robert Daland
 
-# Contact
-email: [r.daland@gmail.com]
+email: [](r.daland@gmail.com)
+
 text: +1 310-402-1176
+
 LinkedIn: [Robert Daland](https://www.linkedin.com/in/robert-daland-176362111/)
 
 # Work Experience
@@ -39,13 +40,13 @@ Since 12/2017: Quality Engineer, Siri Natural Language Understanding (Apple)
 
 
 # Education
-* PhD, Linguistics. Northwestern University, 2009.
+* PhD, Linguistics. Northwestern University, 2009.  
   Areas of focus: speech perception, phonotactics, first languge acquisition  
   Specialization in Cognitive Science.  
   Dissertation: "Word segmentation, word recognition, and word learning: a computational model of first language acquisition."  
-* MS, Mathematics. North Carolina State University (NCSU), 2001.
+* MS, Mathematics. North Carolina State University (NCSU), 2001.  
   Areas of focus: topology, iterated function systems (chaos theory)  
-* BA, English. NCSU, 2001.
+* BA, English. NCSU, 2001.  
   Areas of focus: Modernist and post-modernist literature  
   Minor: Religious studies  
 * BS, Mathetmatics, NCSU, 2000. 
