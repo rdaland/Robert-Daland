@@ -8,13 +8,12 @@ LinkedIn: [Robert Daland](https://www.linkedin.com/in/robert-daland-176362111/)
 
 # Work Experience
 
-Since 12/2017: Quality Engineer, Siri Natural Language Understanding (Apple)
-
-7/2009 -- 12/2017: Assistant Professor of Phonology (UCLA, Linguistics)
-
-8/2003 -- 6/2009: Graduate Student (Northwestern, Linguistics)
-
-6/2001 -- 8/2001: Firmware Engineer (Contractor, Powerware/Invensys)
+| Dates             | Title               | Employer                | Role / Focus                        |
+| ----------------- | ------------------- | ----------------------- | ----------------------------------- |
+| 12/2017 - present | Quality Engineer    | Apple                   | Siri Natural Language Understanding |
+| 7/2009 -- 12/2017 | Assistant Professor | UCLA                    | Phonology (Linguistics)             |
+| 8/2003 -- 6/2009  | Graduate Student    | Northwestern University |                                     |
+| 6/2001 -- 8/2001  | Firmware Engineer   | Powerware/Invensys      | Contractor                          |
 
 # Skills 
 (Skill range: 1=Foundational Knowledge; 6=Mastery)
@@ -31,7 +30,7 @@ Since 12/2017: Quality Engineer, Siri Natural Language Understanding (Apple)
 * Daland, R. (2015). [Long words in maximum entropy phonotactic grammars.](https://doi.org/10.1017/S0952675715000251) Phonology 32(3), 353-383.
 * Norrmann, I. & Daland, R. (2015). [Phonetic evidence for the resyllabification account of vowel prothesis in Spanish speakers acquiring English s-consonant clusters.](https://doi.org/10.1515/opli-2015-0024) Open Linguistics 1(1).
 * Daland, R., Oh, M., & Kim, S. (2015). [When in doubt, read the instructions: Orthographic effect in loanword adaptation.](https://doi.org/10.1016/j.lingua.2015.03.002) Lingua 159, 70-92.
-* Daland, R. (2014). [What is computational phonology?][https://doi.org/10.3989/loquens.2014.004] LOQUENS 1(1), e400.
+* Daland, R. (2014). [What is computational phonology?](https://doi.org/10.3989/loquens.2014.004) LOQUENS 1(1), e400.
 * Cristia, A., Daland, R., Mielke, J., & Peperkamp, S. (2013). [Similarity in the generalization of implicitly learned sound patterns.](https://doi.org/10.1515/lp-2013-001) Laboratory Phonology 4(2), 259-286.
 * Daland, R. & Zuraw, K. (2013). Does Korean defeat phonotactic word segmentation? ACL 51, Sofia, Bulgaria, August 4-9, 2013.
 * Daland, R. (2013). [Variation in child-directed speech: A case study of manner class frequencies. (OPEN ACCESS)](https://doi.org/10.1017/S0305000912000372) Journal of Child Language 40(5), 1091-1122.
