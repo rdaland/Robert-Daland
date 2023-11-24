@@ -162,7 +162,9 @@
 		\skills
 		\skillstext
 		\scriptsize
-		Skill scale:  half = have executed medium-sized projects; full = expert
+		Skill scale:  \\
+		\quad half = executed medium-sized projects \\		
+		\quad full = expert
 			
 		%------------------------------------------------
 			
