@@ -1,0 +1,9 @@
+Graph {
+  subgraph cluster {
+    language -- engineer;
+    data -- scientist;
+    language -- scientist;
+    scientist -- engineer [constraint=false];
+    graph[style=invis];
+  }
+}
